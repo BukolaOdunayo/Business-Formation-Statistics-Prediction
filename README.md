@@ -32,7 +32,7 @@ Environment: Jupyter Notebook
 
 BFS Data.csv → Raw dataset of Business Formation Statistics across countries.
 
-BFS_Prediction.ipynb → Main notebook with data cleaning, EDA, feature engineering, modeling, and predictions.
+Business Formation Statistics.ipynb → Main notebook with data cleaning, EDA, feature engineering, modeling, and predictions.
 
 README.md → Project documentation (this file)
 
