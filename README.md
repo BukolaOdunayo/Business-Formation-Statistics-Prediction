@@ -12,13 +12,13 @@ We answer questions like:
 
 3. How do country effects compare with quarterly trends?
 
-#📚 Libraries Used
+📚 Libraries Used
 
 Data Handling: pandas, numpy, re
 
 Visualization: matplotlib, seaborn
 
-#Machine Learning:
+Machine Learning:
 
 Preprocessing: StandardScaler, MinMaxScaler, OneHotEncoder, SimpleImputer, ColumnTransformer, Pipeline
 
@@ -28,7 +28,7 @@ Evaluation: mean_squared_error, r2_score
 
 Environment: Jupyter Notebook
 
-#📂 Repository Structure
+📂 Repository Structure
 
 BFS Data.csv → Raw dataset of Business Formation Statistics across countries.
 
