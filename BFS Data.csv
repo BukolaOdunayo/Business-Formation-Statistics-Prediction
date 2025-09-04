@@ -1,0 +1,631 @@
+Country,Country Code,Series,Series Code,2023Q2 [2023Q2],2023Q3 [2023Q3],2023Q4 [2023Q4],2024Q1 [2024Q1],2024Q2 [2024Q2],2024Q3 [2024Q3],2024Q4 [2024Q4],2025Q1 [2025Q1],2025Q2 [2025Q2],2025Q3 [2025Q3]
+Advanced Economies,AME,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,2747101.68,2711504.085,2804473.724,2747263.256,2795362.329,2775144.416,2833256.172,2836982.092,..,..
+Advanced Economies,AME,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,2741321.592,2749924.972,2759485.778,2759963.791,2784036.652,2812467.532,2786239.75,2858520.685,..,..
+Advanced Economies,AME,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,3264405.659,3194715.008,3303811.074,3243778.984,3295276.447,3280910.86,3314700.754,3313894.666,..,..
+Advanced Economies,AME,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,3240273.389,3247260.013,3258656.509,3262387.882,3275119.738,3340401.312,3277467.295,3348173.133,..,..
+Advanced Economies,AME,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,1.182011406,1.18085404,1.180892663,1.182040102,1.176392464,1.187711955,1.176304837,1.171295751,..,..
+Advanced Economies,AME,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,13691532.38,13735989.94,13784766.57,13837786.67,13913320.03,13983758.42,14048721.97,14076797.88,..,..
+Advanced Economies,AME,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,15466400.21,15605710.19,15658589.08,15923579.91,15976349.15,16342075.28,16322047.92,16333756.38,..,..
+Advanced Economies,AME,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,2635629.523,2593771.323,2640425.69,2570680.785,2647247.463,2690676.29,2738416.918,2800432.645,..,..
+Advanced Economies,AME,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,2968916.494,2928816.125,2934189.415,2907303.788,2979828.556,3028735.447,3049743.246,3153861.582,..,..
+Advanced Economies,AME,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,3076986.277,2997512.615,3053021.25,2962700.945,3069755.678,3123378.801,3144631.84,3204211.859,..,..
+Advanced Economies,AME,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,3403548.537,3343572.131,3343169.993,3319507.985,3393659.519,3472406.418,3450709.921,3575835.113,..,..
+Advanced Economies,AME,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Advanced Economies,AME,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,1.146394162,1.14161217,1.139384518,1.141782293,1.138877441,1.146487198,1.131475551,1.133795831,..,..
+Advanced Economies,AME,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,1104.303519,1025.120061,1106.462765,996.5463556,1111.317969,951.3729903,940.9796699,1061.178154,..,..
+Albania,ALB,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,1032.118232,1090.857338,1119.661723,997.4771415,1037.299515,1013.709658,947.9010514,1059.295653,..,..
+Albania,ALB,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,489613,495251,497410,503687,508201,514839,518738,522110,..,..
+Albania,ALB,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,4406.843027,4457.588782,4477.021219,4533.518399,4574.147405,4633.893825,4668.987421,4699.337667,..,..
+Albania,ALB,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,582517,594612,609089,619132,621856,633328,639173,644056,..,..
+Albania,ALB,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,5752.623066,6144.556523,6291.043685,6480.006293,6641.089007,6966.10613,6920.84391,6851.502668,..,..
+Albania,ALB,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,2276.511599,2186.661824,2296.969582,2186.519709,2470.503296,2476.92258,2476.944546,2147.399971,..,..
+Albania,ALB,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,2213.022303,2161.623036,2192.637643,2412.259468,2386.951521,2446.579384,2373.237468,2364.622634,..,..
+Albania,ALB,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Albania,ALB,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,14108.1875,13603.875,13165,12791.5625,12483.5625,12241,12063.875,..,..,..
+Algeria,DZA,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,14118.4291,13594.43892,13123.08295,12831.51616,12491.79127,12235.93584,12024.84818,..,..,..
+Algeria,DZA,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,8883.265132,9652.257965,10698.35201,..,..,..,..,..,..,..
+Algeria,DZA,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,8883.939261,9607.839282,10620.4646,..,..,..,..,..,..,..
+Algeria,DZA,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,10496.21927,10804.68524,11151.86096,..,..,..,..,..,..,..
+Algeria,DZA,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,10490.63333,10801.07031,11153.62864,..,..,..,..,..,..,..
+Algeria,DZA,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,1.181870968,1.119869473,1.043099092,..,..,..,..,..,..,..
+Algeria,DZA,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,1.181112929,1.124611833,1.050951193,..,..,..,..,..,..,..
+Algeria,DZA,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,9975.078125,9598.453125,9401.296875,9383.609375,9545.390625,9886.640625,10407.35938,..,..,..
+Angola,AGO,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,10011.61753,9586.024724,9348.224045,9411.598396,9588.401957,9874.972094,10334.84155,..,..,..
+Angola,AGO,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,14452.41463,15359.40458,13623.21239,15182.7479,18348.03768,19030.00215,18402.53202,16370.68431,..,..
+Argentina,ARG,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,13802.45445,14362.79811,13641.77967,16571.80709,18072.23468,17793.96402,18532.55573,18316.24279,..,..
+Argentina,ARG,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,17582.3,17798.2,15644.8,17454.4,20745,20896.5,20607.2,18696.8,..,..
+Argentina,ARG,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,16511,16866,15804,18888,20105,19814,20896,20720,..,..
+Argentina,ARG,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,1.216777613,1.158674392,1.148750822,1.150538297,1.131019888,1.098023504,1.119925214,1.141683103,1.123428254,..
+Argentina,ARG,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,1.195952879,1.174280672,1.158539589,1.139904774,1.11250667,1.113512293,1.127591019,1.131510898,1.103712597,..
+Argentina,ARG,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,177471.851,181199.138,177091.221,173923.336,172450.906,179106.088,182650.007,184177.888,..,..
+Argentina,ARG,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,106562.1535,108800.1857,106333.6059,104431.464,103547.3502,107543.4235,109671.3533,110588.7624,..,..
+Argentina,ARG,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,38219826.09,52284683.57,71221491.53,108271905,134432337.9,162796511.1,178645437.2,193154759.2,..,..
+Argentina,ARG,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,164641.8432,166910.0178,159423.1781,129739.6224,151707.0408,172908.5442,178623.1808,182977.0923,..,..
+Argentina,ARG,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,16739.06327,17688.87885,14192.9319,11625.04133,12251.50557,14723.68338,15710.81878,16952.16495,..,..
+Argentina,ARG,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,17382.06986,17288.22146,14906.62723,13104.30993,12635.45137,14263.58384,16320.22448,18806.46911,..,..
+Argentina,ARG,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,20768.4,20177.5,15638.6,13053.7,14404,16581,16737,17635.9,..,..
+Argentina,ARG,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,19816,18755,16491,14375,13675,15316,17411,19063,..,..
+Argentina,ARG,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,1.239994449,1.143741327,1.105717458,1.123091868,1.177990563,1.129558701,1.064529559,1.040327505,1.087177352,..
+Argentina,ARG,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,1.140093912,1.086468171,1.108692172,1.096926525,1.082866443,1.07438237,1.066912118,1.013873326,1.016567953,..
+Argentina,ARG,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,2341904.442,2375766.707,2439891.837,2490865.157,2530428.51,2560815.279,2590644.139,2690443.025,..,..
+Armenia,ARM,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,6051.589039,6146.078663,6042.726539,6177.485612,6505.682321,6602.762167,6627.270291,6803.956161,..,..
+Armenia,ARM,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,2914.1,2849.4,3782.8,5332.5,4307.5,3730.7,3696.1,2804.1,..,..
+Armenia,ARM,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,2899.577221,2915.21092,3480.835642,5706.297612,4207.029312,3872.951471,3439.062955,2992.794565,..,..
+Armenia,ARM,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Armenia,ARM,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Aruba,ABW,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Australia,AUS,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,57190.0942,56181.07905,56323.03201,53325.58155,56116.9166,56166.41533,57727.87913,54201.1284,..,..
+Australia,AUS,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,58434.43577,57017.76947,55983.50156,56798.18569,57481.35008,56955.03275,57377.52807,57615.26673,..,..
+Australia,AUS,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,93429,87310,91912,86114,85369,83138,86228,79551,..,..
+Australia,AUS,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,91409.63473,88662.43822,91064.50636,87452.50026,83751.34152,84542.39985,85287.47963,80479.97599,..,..
+Australia,AUS,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,1.63552229,1.554187026,1.631591531,1.615126375,1.522178483,1.480197295,1.493761101,1.468482201,..,..
+Australia,AUS,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,1.564540846,1.554992171,1.626632549,1.53945515,1.45706353,1.484362155,1.486377139,1.398490744,..,..
+Australia,AUS,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,646478,649753,650288,651115,652609,654696,658429,659819,..,..
+Australia,AUS,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,414616.622,416717.0329,417060.1535,417590.5473,418548.7195,419887.2104,422281.3581,423172.8302,..,..
+Australia,AUS,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,647971,656822,665765,674490,676483,679674,690122,699617,..,..
+Australia,AUS,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,432769.6801,430091.0585,433334.9642,443813.7151,445810.3797,454956.2374,449975.5704,439011.6868,..,..
+Australia,AUS,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,67183.26684,71153.3235,69433.2664,69971.80167,70577.4397,72382.52596,74247.17777,68637.30799,..,..
+Australia,AUS,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,67453.1234,70437.97528,68687.31957,70893.79649,70674.54043,71669.74777,73662.23036,69449.54329,..,..
+Australia,AUS,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,67036.81021,70154.15055,68819.62421,68855.89571,70245.99742,72189.6674,72299.52811,66465.29468,..,..
+Australia,AUS,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,67573.91672,69555.56647,67778.02065,70137.30748,70608.55523,71537.31609,71453.91983,67647.32734,..,..
+Australia,AUS,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,0.998079876,0.985971587,0.991150725,0.984054455,0.995297888,0.997265867,0.973636776,0.968374484,..,..
+Australia,AUS,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,1.001908972,0.987503083,0.986768175,0.989324746,0.99909239,0.998053614,0.969958205,0.974160671,..,..
+Australia,AUS,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,55287.4,51512.5,54684.4,53569.7,51494.5,51258.9,50547.2,50204.7,..,..
+Austria,AUT,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,54566.23,53348.19823,54796.53558,52514.26346,50601.84984,52976.88697,50831.51951,49129.27503,..,..
+Austria,AUT,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Austria,AUT,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,95975,95199,94659,94773,94450,94311,94268,94399,..,..
+Austria,AUT,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,120051.6241,119080.9541,118405.4878,118548.0862,118144.0573,117970.1873,117916.4001,118080.2633,..,..
+Austria,AUT,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,118579,118527,118602,119828,120685,121172,122256,122023,..,..
+Austria,AUT,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,129085.7862,128982.204,127572.0305,130154.9534,129915.3038,133138.8905,130360.4355,128317.5795,..,..
+Austria,AUT,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,62772.5611,58146.2387,58006.09474,57830.88563,58037.84772,56571.69147,58363.23906,58890.18422,..,..
+Austria,AUT,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,62690.33237,60515.44196,58868.94982,57727.63011,57820.9776,58835.95071,59298.95754,58680.44566,..,..
+Austria,AUT,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,56638.32676,52086.24633,51363.98195,51304.11974,51160.91839,50810.09489,51245.42623,51603.00492,..,..
+Austria,AUT,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,55990.18572,53414.29338,51750.43435,50373.22463,50428.17476,52086.66763,51709.51701,50530.08583,..,..
+Austria,AUT,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,0.902312108,0.895784409,0.88543045,0.887153912,0.88153188,0.898209635,0.877741471,0.876119782,..,..
+Austria,AUT,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,0.893152926,0.882640449,0.87904224,0.872582232,0.872163121,0.885295581,0.871810728,0.861157172,..,..
+Austria,AUT,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,6673.532,6669.106,7375.696,6184.494,6168.009,6912.56,6726.965,6212.87,..,..
+Azerbaijan,AZE,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,7031.890774,6513.613531,6866.106303,6506.619937,6508.056083,6728.303005,6243.564514,6569.592814,..,..
+Azerbaijan,AZE,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,3905.254,4181.579,4546.595,3515.055,4214.096,4531.953,4905.98,3767.41,..,..
+Azerbaijan,AZE,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bahamas The,BHS,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,3.034444444,2.981917989,3.175,3.237473545,2.909955026,3.027984127,3.211756614,3.227970899,..,..
+Bahrain,BHR,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,3.075955374,2.986557682,3.152205556,3.222099432,2.950822864,3.034538655,3.182346193,3.20523814,..,..
+Bahrain,BHR,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,3659.587791,3695.923065,3798.319833,3707.86624,3696.640227,3806.335186,3918.617333,..,..,..
+Bahrain,BHR,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,9920.834371,10019.33624,10296.92526,10051.71318,10021.28041,10318.6542,10623.04165,..,..,..
+Bahrain,BHR,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,4230.003352,4426.198702,4472.955101,4400.209766,4347.345858,4411.559814,4545.623748,..,..,..
+Bahrain,BHR,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,11190.48506,11709.52038,11833.21455,11640.76658,11500.91497,11670.79316,12025.45965,..,..,..
+Bahrain,BHR,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,3885849.206,3709510.582,3904047.619,3960740.741,3731965.608,3897060.847,3944870.37,4037481.481,..,..
+Bahrain,BHR,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,3864257.241,3718876.642,3939571.972,3934031.191,3720206.533,3920125.617,3984482.824,4002541.434,..,..
+Bahrain,BHR,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,12705.76538,12981.71618,13099.15056,15034.44753,9888.839642,10588.65379,11809.59815,11575.21508,..,..
+Bangladesh,BGD,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,13442.8663,13647.27385,12519.36385,14086.40168,10465.70519,11209.29065,11349.48526,10803.33767,..,..
+Bangladesh,BGD,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,14473.20877,15943.79441,16146.74604,15372.226,15992.41588,15242.70925,16522.06064,17440.35593,..,..
+Bangladesh,BGD,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,14407.36893,15856.28341,16020.85134,15850.1674,15850.14248,15029.61208,16395.67249,18103.59366,..,..
+Bangladesh,BGD,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bangladesh,BGD,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,125.625,119.875,111.625,..,..,..,..,..,..,..
+Barbados,BRB,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,124.8168174,120.4375279,112.6018006,..,..,..,..,..,..,..
+Barbados,BRB,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Barbados,BRB,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,9437.1,10197.5,10544.7,9592.9,10140,10698.3,9754.4,9151.6,..,..
+Belarus,BLR,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,10013.45823,9799.373078,9797.484689,10198.6274,10754.48671,10291.83777,9074.176837,9698.482847,..,..
+Belarus,BLR,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,50125.01297,50919.39359,51136.29908,51530.79442,52910.81377,52778.21902,52530.60715,53188.70231,..,..
+Belarus,BLR,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,15315.94608,15558.67301,15624.94956,15745.48957,16167.16132,16126.64634,16050.9873,16252.07154,..,..
+Belarus,BLR,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,53505.7803,55174.60404,57473.97736,58787.43292,61759.727,62420.05993,63342.04969,67772.70758,..,..
+Belarus,BLR,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,17299.60612,16622.73768,17023.96195,17356.95469,18174.12855,18634.02337,17761.748,19441.12962,..,..
+Belarus,BLR,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,10333.9,10411.8,11748.9,10501.9,10972.1,12121.9,12104.3,10830.9,..,..
+Belarus,BLR,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,11086.68412,10443.51339,10535.979,10999.16534,11765.6148,12161.65025,10866.45508,11299.22947,..,..
+Belarus,BLR,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Belgium,BEL,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,92856.41211,94928.26013,89972.1116,90404.02571,92592.61745,96008.65772,92628.92157,92211.89879,..,..
+Belgium,BEL,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,100459.4772,102535.1115,99632.41621,99055.97374,100748.8841,104753.9477,104351.5161,99887.24324,..,..
+Belgium,BEL,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,144007.8,140449.6,139601.1,138402.9,136491.4,140325,136326.8,135030.1,..,..
+Belgium,BEL,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,143817.0943,143027.9898,138575.5077,137433.9521,136341.3702,142775.3364,135241.1955,133850.4025,..,..
+Belgium,BEL,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,1.550728673,1.480077293,1.551321932,1.530824053,1.474179931,1.46156724,1.47114652,1.463849462,..,..
+Belgium,BEL,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,1.43479466,1.394956669,1.391318695,1.388010515,1.353030711,1.362939049,1.295214174,1.340296505,..,..
+Belgium,BEL,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,129850,129889,130248,130751,131114,131449,131670,132196,..,..
+Belgium,BEL,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,150223.0867,150268.2057,150683.5317,151265.451,151685.4046,152072.9651,152328.6394,152937.1673,..,..
+Belgium,BEL,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,148496,149400,149884,151380,152844,154448,155312,156357,..,..
+Belgium,BEL,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,161653.6057,162578.495,161219.9307,164426.1512,164533.9081,169701.2128,165607.7408,164422.7054,..,..
+Belgium,BEL,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,95238.77674,94823.4303,94920.17439,95811.55002,96962.0856,98070.37771,97043.95778,95918.81748,..,..
+Belgium,BEL,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,99470.176,99586.05929,99231.41278,98423.51912,102448.7578,104114.617,102716.2914,97463.73854,..,..
+Belgium,BEL,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,143485.4453,131752.1222,134336.3491,131036.7858,132802.9497,129468.612,128456.4182,127360.8861,..,..
+Belgium,BEL,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,143823.6933,135918.227,131800.6142,129585.3691,133047.5488,133373.2009,126041.8016,125737.9416,..,..
+Belgium,BEL,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,1.506721347,1.389578178,1.415016987,1.367509298,1.369379808,1.32032043,1.32219262,1.32787923,..,..
+Belgium,BEL,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,1.446701997,1.365061743,1.328247104,1.316972881,1.298186981,1.281330946,1.226865323,1.290737142,..,..
+Belgium,BEL,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,125.890625,120.078125,112.296875,..,..,..,..,..,..,..
+Belize,BLZ,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,125.1227356,120.630191,113.5951951,..,..,..,..,..,..,..
+Belize,BLZ,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,1263.5,1279.2,1311.7,1376.9,1394.9,1364.5,1401.4,1402.3,..,..
+Belize,BLZ,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,647.64,705.76,686.28,720.45,758.43,688.03,742.21,692.78,..,..
+Belize,BLZ,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,642.9716434,729.4183237,653.8309355,741.7988656,749.3199388,714.1140356,707.0073174,712.5950626,..,..
+Belize,BLZ,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Benin,BEN,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,2908,2839,2520,1931,2494,2391,2242,..,..,..
+Bolivia,BOL,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,2758.927688,2701.019883,2556.498475,2147.777448,2341.378524,2266.400845,2290.478149,..,..,..
+Bolivia,BOL,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,12619.77217,12735.6127,12945.10076,12795.77561,13050.46477,12878.54367,12615.34964,..,..,..
+Bolivia,BOL,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,7225.420197,7291.744412,7411.686297,7326.19054,7472.012209,7373.579195,7222.888088,..,..,..
+Bolivia,BOL,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,76707.90448,77359.65653,79879.21998,78093.4177,80669.56641,81954.18725,81424.91817,..,..,..
+Bolivia,BOL,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,11100.7785,11198.40676,11560.12002,11299.5169,11667.78252,11857.88173,11779.45689,..,..,..
+Bolivia,BOL,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,2763,2946,2991,2495,2362,2557,2490,..,..,..
+Bolivia,BOL,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,2934.079259,2860.781272,2752.361876,2672.748647,2496.251887,2481.764244,2290.566236,..,..,..
+Bolivia,BOL,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,2384.4328,2210.807,2221.174,2139.1275,2265.0818,2199.8452,2289.591,2224.163,..,..
+Bosnia and Herzegovina,BIH,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,2302.436668,2264.398933,2217.478729,2170.554436,2177.888679,2258.651301,2290.359219,2250.444665,..,..
+Bosnia and Herzegovina,BIH,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,10398.91841,10429.7266,10455.38406,10582.00676,10634.1658,10704.88937,10724.50691,10755.55034,..,..
+Bosnia and Herzegovina,BIH,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,6079.788368,6097.800553,6112.80134,6186.832043,6217.327125,6258.676074,6270.145586,6288.29531,..,..
+Bosnia and Herzegovina,BIH,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,12421.6059,12547.30752,12659.02501,12780.64068,12765.11916,12807.24241,12882.88487,12995.72605,..,..
+Bosnia and Herzegovina,BIH,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,6913.182775,6980.591616,6961.253824,7097.041697,7025.382036,7194.147947,7023.276485,6986.769192,..,..
+Bosnia and Herzegovina,BIH,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,3939.7671,3977.6095,3845.7297,3780.4097,3987.256,4074.5232,4010.8537,3870.9996,..,..
+Bosnia and Herzegovina,BIH,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,3822.753324,3900.154035,3832.724057,4004.962685,3859.943173,3995.345901,4009.488721,4096.550548,..,..
+Bosnia and Herzegovina,BIH,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Core CPI,not seas.adj,,,",CORENS,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Core CPI,seas.adj,,,",CORESA,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"CPI Price, % y-o-y, median weighted, seas. adj.,",CPTOTSAXMZGY,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"CPI Price, % y-o-y, not seas. adj.,,",CPTOTSAXNZGY,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"CPI Price, seas. adj.,,,",CPTOTSAXN,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"CPI Price,not seas.adj,,,",CPTOTNSXN,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Exchange rate, new LCU per USD extended backward, period average,,",DPANUSSPB,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Exchange rate, old LCU per USD extended forward, period average,,",DPANUSSPF,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Exports Merchandise, Customs, constant US$, millions, not seas. adj.",DXGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Exports Merchandise, Customs, constant US$, millions, seas. adj.",DXGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Exports Merchandise, Customs, current US$, millions, not seas. adj.",DXGSRMRCHNSCD,1735.304028,1579.783041,905.5292649,1302.023839,1413.863646,914.440497,1027.574838,1052.003903,..,..
+Botswana,BWA,"Exports Merchandise, Customs, current US$, millions, seas. adj.",DXGSRMRCHSACD,1621.828793,1630.514129,1020.763612,1209.028554,1322.455886,936.4356257,1185.144667,1002.120289,..,..
+Botswana,BWA,"Exports Merchandise, Customs, Price, US$, not seas. adj.",DXGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Exports Merchandise, Customs, Price, US$, seas. adj.",DXGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"GDP,constant 2010 LCU,millions,seas. adj.,",NYGDPMKTPSAKN,50867.86219,50924.57154,50904.17747,49017.51295,50543.32234,48803.19602,49905.71036,48897.4443,..,..
+Botswana,BWA,"GDP,constant 2010 US$,millions,seas. adj.,",NYGDPMKTPSAKD,4764.249384,4769.560743,4767.650649,4590.946932,4733.853202,4570.874154,4674.134898,4579.701385,..,..
+Botswana,BWA,"GDP,current LCU,millions,seas. adj.,",NYGDPMKTPSACN,67498.36878,65662.31209,63893.84728,64831.11041,66061.54106,65888.83478,66452.22163,69411.54926,..,..
+Botswana,BWA,"GDP,current US$,millions,seas. adj.,",NYGDPMKTPSACD,5059.909983,4889.320689,4709.72831,4760.187328,4841.883249,4926.630812,4925.739505,5019.444269,..,..
+Botswana,BWA,"Imports Merchandise, Customs, constant US$, millions, not seas. adj.",DMGSRMRCHNSKD,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Imports Merchandise, Customs, constant US$, millions, seas. adj.",DMGSRMRCHSAKD,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Imports Merchandise, Customs, current US$, millions, not seas. adj.",DMGSRMRCHNSCD,1499.194894,1701.574697,1844.903094,1645.12914,1826.917147,1790.956306,1932.661282,1558.792217,..,..
+Botswana,BWA,"Imports Merchandise, Customs, current US$, millions, seas. adj.",DMGSRMRCHSACD,1539.751624,1744.490994,1725.964354,1690.393574,1864.801387,1829.342024,1813.315521,1605.158023,..,..
+Botswana,BWA,"Imports Merchandise, Customs, Price, US$, not seas. adj.",DMGSRMRCHNSXD,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Imports Merchandise, Customs, Price, US$, seas. adj.",DMGSRMRCHSAXD,..,..,..,..,..,..,..,..,..,..
+Botswana,BWA,"Industrial Production, constant US$, seas. adj.,,",IPTOTSAKD,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: Global Economic Monitor (GEM),,,,,,,,,,,,,
+Last Updated: 07/23/2025,,,,,,,,,,,,,
